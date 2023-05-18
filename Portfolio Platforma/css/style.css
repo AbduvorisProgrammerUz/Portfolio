@@ -1,0 +1,55 @@
+body {
+  overflow-x: hidden;
+}
+
+.navbar .nav-link {
+  font-size: 14px;
+  text-transform: uppercase;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
+
+.navbar .nav-item.active {
+  border-left: #444 3px solid;
+}
+
+.btn{
+  cursor: pointer;
+}
+
+.carousel-item {
+  height: 450px;
+}
+
+.hjjk{
+  opacity: 1;
+}
+.vnb{
+  padding: 3rem;
+}
+.sal{
+  border-right: 1px solid rgb(46, 41, 41);
+}
+.qale{
+  list-style: none;
+}
+.bac{
+  background-image: url("../img/3d_man_seated_on_a_world_chair_with_laptop_ppt_graphics_icons_powerpoint_Slide02.jpg");
+  background-repeat: no-repeat;
+  padding: 200px !important;
+}
+
+.bace{
+  background-image: url("../img/lights.jpg");
+  background-repeat: no-repeat;
+  padding: 200px !important;
+}
+#home_icon{
+  background-image: url("../img/image3.jpg");
+  background-attachment: fixed;
+}
+@media only screen and ( max-width: 600px){
+	.salom{
+		overflow: hidden;
+	}
+}
